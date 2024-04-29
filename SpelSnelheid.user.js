@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         LSS Geschwindigkeitssteuerung anpassen
+// @name         LSS Spel Snelheid Aanpassen
 // @namespace    www.leitstellenspiel.de
 // @version      1.0
 // @description  Erlaubt das Ausblenden und Umbenennen der Geschwindigkeiten
